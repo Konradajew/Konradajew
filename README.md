@@ -5,8 +5,8 @@
 ---
 
 ### ✨ About Me
-**3ʳᵈ-year Computer Science student @ AGH**  
-Full-Stack • cute anime girls enjoyer*
+**I'm currently studying Computer Sciencie at AGH University of Science and Technology**  
+In my free time I like to apreaciate true beaty and what it means is cute anime girls
 
 ---
 
