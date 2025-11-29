@@ -1,54 +1,62 @@
-<div align="left">
+<div align="center">
 
-# Hi, I'm Konrad
+# Hi, I'm Konrad 👋
 
-<!--<img src="https://github.com/TWOJ-USERNAME/TWOJ-USERNAME/blob/main/banner.png?raw=true" alt="banner" width="100%"/> -->
-
-**3ʳᵈ-year Computer Science student @ AGH**
+**3ʳᵈ-year Computer Science student @ AGH**  
+*Frontend • Full-Stack • cute anime girls enjoyer*
 
 <br/>
 
 ### About Me
-- I love cute anime girls
-
-<br/>
-
-### What I'm Up To
-- nothing really
+- Studying Computer Science at **AGH University of Science and Technology**
 
 <br/>
 
 ### Tech Stack
 
-![](https://skillicons.dev/icons?i=python,java,c,sql,react,javascript,html,nodejs&perline=8)
-
-**Python • Java • C • SQL • React • JavaScript • HTML • Node.js**
+<div>
+  <img src="https://skillicons.dev/icons?i=python&theme=light" height="42" />
+  <br>Python
+</div>
+<div>
+  <img src="https://skillicons.dev/icons?i=java&theme=light" height="42" />
+  <br>Java
+</div>
+<div>
+  <img src="https://skillicons.dev/icons?i=c&theme=light" height="42" />
+  <br>C
+</div>
+<div>
+  <img src="https://skillicons.dev/icons?i=sql&theme=light" height="42" />  
+  <br>SQL
+</div>
+<div>
+  <img src="https://skillicons.dev/icons?i=react&theme=light" height="42" />
+  <br>React
+</div>
+<div>
+  <img src="https://skillicons.dev/icons?i=javascript&theme=light" height="42" />
+  <br>JavaScript
+</div>
+<div>
+  <img src="https://skillicons.dev/icons?i=html&theme=light" height="42" />
+  <br>HTML
+</div>
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=light" height="42" />
+  <br>Node.js
+</div>
 
 <br/>
-<!--
-### GitHub Stats
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=Konradajew&theme=nord&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=Konradajew&theme=nord&hide_border=true"/>
-
-<br/>
-
-### Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konradajew&layout=compact&theme=nord&hide_border=true&langs_count=10"/>
-
-<br/>
--->
 ### Let's connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/twoj-linkedin)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:twoj.mail@gmail.com)
 
 <br/>
-<!--
-<img src="https://komarev.com/ghpvc/?username=Konradajew&color=4c7adb&style=flat-square&label=Profile+views"/>
--->
-<p><i>Thanks for visiting</i></p>
+
+<p><i>Thanks for visiting • feel free to say hi~</i></p>
 
 </div>
 <!--
