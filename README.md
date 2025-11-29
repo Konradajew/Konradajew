@@ -3,7 +3,7 @@
 # Hi, I'm Konrad 👋
 
 **3ʳᵈ-year Computer Science student @ AGH**  
-*Frontend • Full-Stack • cute anime girls enjoyer*
+ Full-Stack • cute anime girls enjoyer*
 
 <br/>
 
