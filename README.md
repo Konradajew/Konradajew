@@ -2,7 +2,8 @@
 
 # Hi! 👋 I'm Konrad
 
-
+### 🛠 Tech Stack
+![](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,prisma,postgres,git,github,vscode&perline=8)
 </div>
 <!--
 **Konradajew/Konradajew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
