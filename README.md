@@ -14,38 +14,7 @@
 
 ### Tech Stack
 
-<div>
-  <img src="https://skillicons.dev/icons?i=python&theme=light" height="42" />
-  <br>Python
-</div>
-<div>
-  <img src="https://skillicons.dev/icons?i=java&theme=light" height="42" />
-  <br>Java
-</div>
-<div>
-  <img src="https://skillicons.dev/icons?i=c&theme=light" height="42" />
-  <br>C
-</div>
-<div>
-  <img src="https://skillicons.dev/icons?i=sql&theme=light" height="42" />  
-  <br>SQL
-</div>
-<div>
-  <img src="https://skillicons.dev/icons?i=react&theme=light" height="42" />
-  <br>React
-</div>
-<div>
-  <img src="https://skillicons.dev/icons?i=javascript&theme=light" height="42" />
-  <br>JavaScript
-</div>
-<div>
-  <img src="https://skillicons.dev/icons?i=html&theme=light" height="42" />
-  <br>HTML
-</div>
-<div>
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=light" height="42" />
-  <br>Node.js
-</div>
+<div align="left"> <table> <tr> <td align="center"> <img src="https://skillicons.dev/icons?i=python&theme=light" height="50" /><br/> <sub><b>Python</b></sub> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=java&theme=light" height="50" /><br/> <sub><b>Java</b></sub> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=c&theme=light" height="50" /><br/> <sub><b>C</b></sub> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=sql&theme=light" height="50" /><br/> <sub><b>SQL</b></sub> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=react&theme=light" height="50" /><br/> <sub><b>React</b></sub> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=javascript&theme=light" height="50" /><br/> <sub><b>JavaScript</b></sub> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=html&theme=light" height="50" /><br/> <sub><b>HTML</b></sub> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=nodejs&theme=light" height="50" /><br/> <sub><b>Node.js</b></sub> </td> </tr> </table> </div>
 
 <br/>
 
