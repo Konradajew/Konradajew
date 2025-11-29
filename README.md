@@ -31,7 +31,7 @@ In my free time I like to apreaciate true beaty and what it means is looking at 
         <sub><b>C</b></sub>
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=mysql&theme=light" height="50" /><br/>
+        <img src="https://skillicons.dev/icons?i=mssql&theme=light" height="50" /><br/>
         <sub><b>SQL</b></sub>
       </td>
       <td align="center">
