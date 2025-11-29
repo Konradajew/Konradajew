@@ -57,8 +57,8 @@ Full-Stack • cute anime girls enjoyer*
 
 ### 📬 Let's connect!
 
-[![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/TWOJE_ID)  
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:twoj.mail@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/375683967120179200)  
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:konrad20050203@gmail.com)
 
 <br/>
 <p><i>✨ Thanks for visiting • feel free to say hi!</i></p>
