@@ -1,6 +1,4 @@
-<!--<div align="left"> -->
-
-<div align="center">
+<div align="left">
 
 # Hi, I'm Konrad
 
@@ -27,7 +25,7 @@
 **Python • Java • C • SQL • React • JavaScript • HTML • Node.js**
 
 <br/>
-
+<!--
 ### GitHub Stats
 
 <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Konradajew&theme=nord&hide_border=true&include_all_commits=true&count_private=true"/>
@@ -40,16 +38,16 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konradajew&layout=compact&theme=nord&hide_border=true&langs_count=10"/>
 
 <br/>
-
+-->
 ### Let's connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/twoj-linkedin)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:twoj.mail@gmail.com)
 
 <br/>
-
+<!--
 <img src="https://komarev.com/ghpvc/?username=Konradajew&color=4c7adb&style=flat-square&label=Profile+views"/>
-
+-->
 <p><i>Thanks for visiting</i></p>
 
 </div>
