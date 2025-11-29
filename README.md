@@ -6,7 +6,7 @@
 
 ### ✨ About Me
 **I'm currently studying Computer Sciencie at AGH University of Science and Technology**  
-In my free time I like to apreaciate true beaty and what it means is cute anime girls
+In my free time I like to apreaciate true beaty and what it means is looking at cute anime girls
 
 ---
 
