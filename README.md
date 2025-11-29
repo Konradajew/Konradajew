@@ -1,17 +1,18 @@
 <div align="left">
-# Hi, I'm Konrad 👋
+
+# 👋 Hi, I'm **Konrad**
 
 **3ʳᵈ-year Computer Science student @ AGH**  
- Full-Stack • cute anime girls enjoyer*
+Full-Stack • cute anime girls enjoyer*
 
 <br/>
 
-### About Me
+### 🎓 About Me
 - Studying Computer Science at **AGH University of Science and Technology**
 
 <br/>
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 <div align="left">
   <table>
@@ -54,14 +55,16 @@
 
 <br/>
 
-### Let's connect!
+### 📬 Let's connect!
 
-[![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/TWOJE_ID)
+[![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/TWOJE_ID)  
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:twoj.mail@gmail.com)
 
 <br/>
-<p><i>Thanks for visiting</i></p>
+<p><i>✨ Thanks for visiting • feel free to say hi!</i></p>
+
 </div>
+
 <!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
