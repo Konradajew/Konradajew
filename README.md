@@ -8,7 +8,7 @@
 - 💻 Junior Fullstack / Frontend / Studentka informatyki
 - 🎨 Uwielbiam anime, rysowanie i robienie cute projektów
 - ✨ Aktualnie uczę się React + TypeScript + Next.js
-- 🐾 Fun fact: mam 3 koty i wszystkie mają imiona z anime
+- 🐾 Fun fact: nie jestem fanem plemienia z malymi smiesznymi czapkami
 
 ### 🛠 Tech stack
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,prisma,postgres&perline=6"/>
