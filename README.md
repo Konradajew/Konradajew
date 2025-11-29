@@ -4,7 +4,7 @@
 
 ---
 
-### 🎓 About Me
+### ✨ About Me
 **3ʳᵈ-year Computer Science student @ AGH**  
 Full-Stack • cute anime girls enjoyer*
 
@@ -47,6 +47,10 @@ Full-Stack • cute anime girls enjoyer*
       <td align="center">
         <img src="https://skillicons.dev/icons?i=html&theme=light" height="50" /><br/>
         <sub><b>HTML</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=css&theme=light" height="50" /><br/>
+        <sub><b>CSS</b></sub>
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=nodejs&theme=light" height="50" /><br/>
