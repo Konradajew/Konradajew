@@ -1,27 +1,7 @@
 <div align="center">
 
-# Cześć! 👋 Jestem [Twoje imię lub nick] ~♡
+# Hi! 👋 I'm Konrad
 
-<img src="https://github.com/twojnick/twojnick/blob/main/banner.gif?raw=true" alt="banner" width="100%"/>
-
-### 🌸 O mnie
-- 💻 Junior Fullstack / Frontend / Studentka informatyki
-- 🎨 Uwielbiam anime, rysowanie i robienie cute projektów
-- ✨ Aktualnie uczę się React + TypeScript + Next.js
-- 🐾 Fun fact: nie jestem fanem plemienia z malymi smiesznymi czapkami
-
-### 🛠 Tech stack
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,prisma,postgres&perline=6"/>
-
-### 📈 Statystyki
-<img src="https://github-readme-stats.vercel.app/api?username=twojnick&theme=tokyonight&show_icons=true&hide_border=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=twojnick&theme=tokyonight&hide_border=true"/>
-
-### 📬 Skontaktuj się ze mną!
-[![Discord](https://img.shields.io/badge/Discord-uwu-7289DA?logo=discord)](https://discord.com/users/twoj_id)
-[![Email](https://img.shields.io/badge/Email-kawaii%40example.com-D14836?logo=gmail)](mailto:kawaii@example.com)
-
-<img src="https://komarev.com/ghpvc/?username=twojnick&color=ff77a9&style=flat&label=Profile+views"/>
 
 </div>
 <!--
