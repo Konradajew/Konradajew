@@ -1,5 +1,4 @@
 <div align="left">
-
 # Hi, I'm Konrad 👋
 
 **3ʳᵈ-year Computer Science student @ AGH**  
@@ -57,13 +56,11 @@
 
 ### Let's connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/twoj-linkedin)
+[![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/TWOJE_ID)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:twoj.mail@gmail.com)
 
 <br/>
-
-<p><i>Thanks for visiting • feel free to say hi~</i></p>
-
+<p><i>Thanks for visiting</i></p>
 </div>
 <!--
 Here are some ideas to get you started:
