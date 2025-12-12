@@ -9,7 +9,7 @@ In my free time I like to apreaciate true beaty and what it means is looking at 
 ---
 
 ### 💡 What I'm Up To
-- nothing good
+- currently working on maze game
 
 ---
 
