@@ -10,7 +10,7 @@ In my free time I like to apreaciate true beaty and what it means is looking at 
 
 ### 💡 What I'm Up To
 - currently working on maze game
-
+- expanding my skill set
 ---
 
 ### 🛠️ Tech Stack
