@@ -4,12 +4,10 @@
 
 ### ✨ About Me
 **I'm currently studying Computer Sciencie at AGH University of Science and Technology**  
-In my free time I like to apreaciate true beaty and what it means is looking at cute anime girls.
 
 ---
 
 ### 💡 What I'm Up To
-- currently working on maze game
 - expanding my skill set
 ---
 
