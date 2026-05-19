@@ -1,83 +1,81 @@
-<div align="left">
+<div align="center">
 
 # 👋 Hi, I'm **Konrad**
 
+![Profile views](https://komarev.com/ghpvc/?username=Konradajew&color=blueviolet&style=flat-square)
+
+</div>
+
 ### ✨ About Me
-**I'm currently studying Computer Sciencie at AGH University of Science and Technology**  
+
+🎓 Third-year **Computer Science** student at **AGH University of Science and Technology** in Cracow  
+🧩 Problem-solver with a background in the **Mathematical Olympiad**  
+🚀 Looking for a **internship** where I can ship real-world projects  
+📍 Based in Cracow, Poland
 
 ---
 
 ### 💡 What I'm Up To
-- expanding my skill set
+
+- 🏆 Recently won 1st place at an internal faculty hackathon (8 teams) with **Tricard**, a mobile trivia card game
+- 📚 Expanding my skill set across desktop, web, and database engineering
+
+---
+
+### 🌟 Featured Projects
+
+| Project | Stack | Highlights |
+|---|---|---|
+| 🃏 **[Tricard](https://github.com/Konradajew)** — Mobile Card Game | React Native, Supabase | Real-time multiplayer trivia + deck-building mechanics. 🥇 1st place at faculty hackathon |
+| 🛒 **OtoBiznes** — Local Services Marketplace | Python, FastAPI, React, SQLite | JWT auth, role-based access, review system. Built in 24h |
+| 📖 **Library Management System** | Spring Boot, React | Inventory, rentals, email notifications, analytics dashboard |
+| 🗄️ **University Database** | MS SQL Server, Python | Full relational schema, stored procedures, triggers, seed scripts |
+
 ---
 
 ### 🛠️ Tech Stack
 
-<div align="left">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=python&theme=light" height="50" /><br/>
-        <sub><b>Python</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=java&theme=light" height="50" /><br/>
-        <sub><b>Java</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=c&theme=light" height="50" /><br/>
-        <sub><b>C</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=mssql&theme=light" height="50" /><br/>
-        <sub><b>SQL</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=react&theme=light" height="50" /><br/>
-        <sub><b>React</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=javascript&theme=light" height="50" /><br/>
-        <sub><b>JavaScript</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=html&theme=light" height="50" /><br/>
-        <sub><b>HTML</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=css&theme=light" height="50" /><br/>
-        <sub><b>CSS</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs&theme=light" height="50" /><br/>
-        <sub><b>Node.js</b></sub>
-      </td>
-    </tr>
-  </table>
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,java,ts,js,html,css&theme=light" />
+
+**Frameworks & Libraries**
+
+<img src="https://skillicons.dev/icons?i=react,fastapi,spring,nodejs&theme=light" />
+
+**Databases & Tools**
+
+<img src="https://skillicons.dev/icons?i=mssql,sqlite,supabase,git,github&theme=light" />
+
 </div>
 
 ---
 
-### 📬 Let's connect!
+### 📊 GitHub Stats
 
-[![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/375683967120179200)  
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:konrad20050203@gmail.com)
+<div align="center">
 
----
-
-<p><i>✨ Thanks for visiting • feel free to say hi!</i></p>
+![Konrad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Konradajew&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Konradajew&layout=compact&theme=default&hide_border=true)
 
 </div>
 
+---
 
-<!--
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Let's Connect!
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-konrad20050203@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:konrad20050203@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/375683967120179200)
+[![GitHub](https://img.shields.io/badge/GitHub-Konradajew-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Konradajew)
+
+</div>
+
+---
+
+<div align="center">
+<i>✨ Thanks for visiting — feel free to say hi!</i>
+</div>
