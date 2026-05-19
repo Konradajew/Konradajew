@@ -2,8 +2,6 @@
 
 # 👋 Hi, I'm **Konrad**
 
-![Profile views](https://komarev.com/ghpvc/?username=Konradajew&color=blueviolet&style=flat-square)
-
 </div>
 
 ### ✨ About Me
@@ -47,7 +45,7 @@
 
 **Databases & Tools**
 
-<img src="https://skillicons.dev/icons?i=mssql,sqlite,supabase,git,github&theme=light" />
+<img src="https://skillicons.dev/icons?i=sqlite,supabase,git,github&theme=light" />
 
 </div>
 
@@ -56,10 +54,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-
-![Konrad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Konradajew&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Konradajew&layout=compact&theme=default&hide_border=true)
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Konradajew&theme=default" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Konradajew&theme=default" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Konradajew&theme=default" />
 </div>
 
 ---
