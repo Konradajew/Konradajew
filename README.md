@@ -24,7 +24,7 @@
 
 | Project | Stack | Highlights |
 |---|---|---|
-| 🃏 **[Tricard](https://github.com/Konradajew)** — Mobile Card Game | React Native, Supabase | Real-time multiplayer trivia + deck-building mechanics. 🥇 1st place at faculty hackathon |
+| 🃏 **Tricard** — Mobile Card Game | React Native, Supabase | Real-time multiplayer trivia + deck-building mechanics. 🥇 1st place at faculty hackathon |
 | 🛒 **OtoBiznes** — Local Services Marketplace | Python, FastAPI, React, SQLite | JWT auth, role-based access, review system. Built in 24h |
 | 📖 **Library Management System** | Spring Boot, React | Inventory, rentals, email notifications, analytics dashboard |
 | 🗄️ **University Database** | MS SQL Server, Python | Full relational schema, stored procedures, triggers, seed scripts |
