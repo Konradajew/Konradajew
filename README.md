@@ -6,7 +6,7 @@
 
 ### ✨ About Me
 
-🎓 Third-year **Computer Science** student at **AGH University of Science and Technology** in Cracow  
+🎓 Fourth-year **Computer Science** student at **AGH University of Science and Technology** in Cracow  
 🧩 Problem-solver with a background in the **Mathematical Olympiad**  
 🚀 Looking for a **internship** where I can ship real-world projects  
 📍 Based in Cracow, Poland
